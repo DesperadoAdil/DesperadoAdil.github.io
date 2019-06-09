@@ -8,5 +8,6 @@
     [Python Flask学习](https://desperadoadil.github.io/FlaskLearning/)  
     [技术趋势分析网站](https://desperadoadil.github.io/TechnicalTrendAnalysis/)  
     [3阶魔方还原程序](https://desperadoadil.github.io/CubeRestore/)  
+    [Tomasulo算法模拟器](https://desperadoadil.github.io/Tomasulo/)  
 - 项目  
     **[Colleguide](https://www.colleguide.com)**  
