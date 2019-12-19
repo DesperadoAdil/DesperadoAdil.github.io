@@ -10,6 +10,7 @@
     [3阶魔方还原程序](https://desperadoadil.github.io/CubeRestore/)  
     [Tomasulo算法模拟器](https://desperadoadil.github.io/Tomasulo/)  
     [数值分析实验](https://desperadoadil.github.io/NumericalAnalysis/)  
+    [关键词搭配检索系统](https://desperadoadil.github.io/ES_search/)  
 - 项目  
     **[Colleguide](https://www.colleguide.com)**  
 - 游戏  
